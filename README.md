@@ -1,7 +1,9 @@
 # Hello 👋
-My name is Emanuel Forlin, I'm from Argentina and I'm a want to work as an SRE.
+My name is Emanuel Forlin, I'm from Argentina.
 
-* I'm currently not working on any company, but I'm ready to be hired.
+My dream is work as an SRE.
+
+Currently not working on any company, but I'm ready to be hired.
 
 # Skills
 
