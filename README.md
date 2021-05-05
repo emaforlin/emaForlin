@@ -14,7 +14,6 @@ Currently not working on any company, but I'm ready to be hired.
 
 # Contact 🤙
 
-Find my socials and resume on my [website](https://emaaforlin.github.io/web)
- 
+Find my socials and resume on my [website](bit.ly/emaaForlin) 
 
 
