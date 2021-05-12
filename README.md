@@ -3,7 +3,7 @@ My name is Emanuel Forlin, I'm from Argentina.
 
 My dream is work as an SRE.
 
-Currently not working on any company, but I'm ready to be hired.
+Currently not working on any company, but I'm ready to start.
 
 # Skills 🏹
 
