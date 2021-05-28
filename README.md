@@ -10,7 +10,7 @@ Currently not working on any company, but I'm ready to start.
 * Self-learning, solving problem and making-decisions skills. Good leader.
 * Linux.
 * Docker, Kubernetes, Ansible.
-* Medium level Python coding.
+* Medium level Python and Golang coding.
 
 # Contact 🤙
 
