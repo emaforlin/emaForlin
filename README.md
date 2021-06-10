@@ -3,7 +3,7 @@ My name is Emanuel Forlin, I'm from Argentina and I'm an SRE in making.
 
 Currently not working on any company, but I'm ready to start.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emaaForlin&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emaaForlin&show_icons=true&theme=dark&layout=compact)
 
 # Skills 🏹
 
