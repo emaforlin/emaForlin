@@ -1,7 +1,5 @@
 # Hello 👋
-My name is Emanuel Forlin, I'm from Argentina.
-
-My dream is work as an SRE.
+My name is Emanuel Forlin, I'm from Argentina and I'm an SRE in making.
 
 Currently not working on any company, but I'm ready to start.
 
@@ -18,5 +16,5 @@ Find all my socials and resume on my [website](bit.ly/emaaForlin)
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emaaForlin&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emaaForlin&show_icons=true&theme=tokyonight)
 
