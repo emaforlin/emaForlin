@@ -10,7 +10,7 @@ Currently not working on any company, but I'm ready to start.
 * Docker, Kubernetes, Ansible.
 * Medium level Python and Golang coding.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emaaForlin&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emaaForlin&show_icons=true&theme=dark)
 
 
 # Contact 🤙
