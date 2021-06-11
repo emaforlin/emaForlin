@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/emaaForlin/emaaForlin/blob/main/header.png)](https://github.com/emaaForlin/emaaForlin)
 
 ---
-## Welcome
+## Welcome 💫
 My name is **Emanuel Forlin**, I'm from Argentina and I'm an SRE in making.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emaaForlin&show_icons=true&theme=blueberry&layout=compact)
@@ -16,7 +16,7 @@ My name is **Emanuel Forlin**, I'm from Argentina and I'm an SRE in making.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emaaForlin&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
-# Contact me🤙
+# Contact me 🤙
 
 Find my updated resume on my <a href="https://bit.ly/emaaForlin" target="_blank">website</a>
 
