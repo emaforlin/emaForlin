@@ -16,9 +16,9 @@ My name is **Emanuel Forlin**, I'm from Argentina and I'm an SRE in making.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emaaForlin&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
-# Contact 🤙
+# Contact me🤙
 
-Find my updated resume on my [website](bit.ly/emaaForlin) 
+Find my updated resume on my <a href="bit.ly/emaaForlin" target="blank">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
