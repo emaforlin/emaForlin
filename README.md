@@ -1,11 +1,10 @@
+## Welcome 💫
+
 [![MasterHead](https://github.com/emaaForlin/emaaForlin/blob/main/header.png)](https://github.com/emaaForlin/emaaForlin)
 
----
-## Welcome 💫
 My name is **Emanuel Forlin**, I'm from Argentina and I'm an SRE in making.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emaaForlin&show_icons=true&theme=blueberry&layout=compact)
-
+---
 
 # Skills 🏹
 
@@ -14,7 +13,13 @@ My name is **Emanuel Forlin**, I'm from Argentina and I'm an SRE in making.
 * Docker, Kubernetes, Ansible.
 * Medium level Python and Golang coding.
 
+
+# Some Stats 📊
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emaaForlin&show_icons=true&theme=blueberry&layout=compact)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emaaForlin&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+
 
 # Contact me 🤙
 
