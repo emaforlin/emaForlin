@@ -18,7 +18,7 @@ My name is **Emanuel Forlin**, I'm from Argentina and I'm an SRE in making.
 
 # Contact me🤙
 
-Find my updated resume on my <p>website<a href="bit.ly/emaaForlin" target="blank"></p>
+Find my updated resume on my <a href="bit.ly/emaaForlin" target="blank">website</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
