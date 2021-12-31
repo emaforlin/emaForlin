@@ -11,7 +11,7 @@ I'm from Argentina and I'm an SRE in making.
 * Self-learning, solving problem and making-decisions skills. Good leader.
 * Linux.
 * Docker, Kubernetes, Ansible.
-* Medium level Python and Golang coding.
+* Python coding.
 
 
 # Some Stats 📊
