@@ -23,12 +23,8 @@ I'm from Argentina and I'm an SRE in making.
 
 # Contact with me 🤙
 
-Find my updated resume on my <a href="https://bit.ly/emaaForlin" target="_blank">website</a>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/emaa_forlin14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/emanuel-forlin/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/emaa_forlin/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /</a>
-<a href="https://open.spotify.com/user/3098kbtn6hofgo2nyr8h4c2te?si=be280dfa1da24a55" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="" height="30" width="40" /></a>
-</p>
