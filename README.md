@@ -2,7 +2,7 @@
 
 [![MasterHead](https://github.com/emaaForlin/emaaForlin/blob/main/header.png)](https://github.com/emaaForlin/emaaForlin)
 
-I'm from Argentina and I'm an SRE in making.
+Argentinian backend developer, maker, motorsports enthusiast 
 
 ---
 
@@ -10,8 +10,8 @@ I'm from Argentina and I'm an SRE in making.
 
 * Self-learning, solving problem and making-decisions skills. Good leader.
 * Linux.
-* Docker, Kubernetes, Ansible.
-* Python coding.
+* Docker, Kubernetes.
+* Python and Golang coding.
 
 
 # Some Stats 📊
