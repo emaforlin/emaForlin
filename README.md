@@ -2,7 +2,7 @@
 
 [![MasterHead](https://github.com/emaaForlin/emaaForlin/blob/main/header.png)](https://github.com/emaaForlin/emaaForlin)
 
-Argentinian backend developer, maker, motorsports enthusiast 
+Argentinian🧉 backend developer, maker and motorsports🏎 enthusiast.
 
 ---
 
