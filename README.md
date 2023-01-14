@@ -11,7 +11,7 @@ Argentinian🧉 SRE, backend developer and motorsports🏎 enthusiast.
 * Self-learning, solving problem and making-decisions skills. Good leader.
 * Linux.
 * Docker, Kubernetes.
-* Python and Golang coding.
+* Python coding (Learning FastAPI).
 
 
 # Some Stats 📊
