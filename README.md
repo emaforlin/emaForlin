@@ -2,7 +2,7 @@
 
 [![MasterHead](https://github.com/emaaForlin/emaaForlin/blob/main/header.png)](https://github.com/emaaForlin/emaaForlin)
 
-Argentinian🧉 SRE, backend developer and motorsports🏎 enthusiast.
+Argentinian🧉 future backend developer and motorsports🏎 enthusiast.
 
 ---
 
@@ -11,7 +11,7 @@ Argentinian🧉 SRE, backend developer and motorsports🏎 enthusiast.
 * Self-learning, solving problem and making-decisions skills. Good leader.
 * Linux.
 * Docker, Kubernetes.
-* Python coding (Learning FastAPI).
+* Python coding, learning c++.
 
 
 # Some Stats 📊
