@@ -2,8 +2,8 @@
 
 [![MasterHead](https://github.com/emaaForlin/emaaForlin/blob/main/header.png)](https://github.com/emaaForlin/emaaForlin)
 
-Soccer World Champion 🇦🇷⭐⭐⭐🇦🇷, Backend Developer, Motorsports 🏎 enthusiast, 🧉>☕.
-
+Argentinian Computer Science Engineering student,Backend Developer and Motorsports🏎 enthusiast.
+  
 ---
 
 # Skills 🏹
