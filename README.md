@@ -2,7 +2,7 @@
 
 [![MasterHead](https://github.com/emaaForlin/emaaForlin/blob/main/header.png)](https://github.com/emaaForlin/emaaForlin)
 
-Argentinian🧉 future backend developer and motorsports🏎 enthusiast.
+Soccer World Champion 🇦🇷⭐⭐⭐🇦🇷, Backend Developer, Motorsports 🏎 enthusiast, 🧉>☕.
 
 ---
 
@@ -11,15 +11,7 @@ Argentinian🧉 future backend developer and motorsports🏎 enthusiast.
 * Self-learning, solving problem and making-decisions skills. Good leader.
 * Linux.
 * Docker, Kubernetes.
-* Python coding, learning c++.
-
-
-# Some Stats 📊
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emaaForlin&show_icons=true&theme=blueberry&layout=compact)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emaaForlin&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
-
+* Python and Golang coding, learning C++.
 
 # Contact with me 🤙
 
