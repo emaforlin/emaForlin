@@ -11,7 +11,7 @@ Argentinian IT Engineering student and Motorsports enthusiast.
 * Self-learning, solving problem and making-decisions skills.
 * Linux.
 * Docker, Kubernetes.
-* Python, Go, C++.
+* Go, Python, C++.
 
 # Contact with me 🤙
 
