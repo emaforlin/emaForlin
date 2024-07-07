@@ -2,7 +2,7 @@
 
 [![MasterHead](https://github.com/emaaForlin/emaaForlin/blob/main/header.png)](https://github.com/emaaForlin/emaaForlin)
 
-Argentinian IT Engineering student and Motorsports enthusiast.
+Argentinian CS Engineering student and Motorsports enthusiast.
   
 ---
 
